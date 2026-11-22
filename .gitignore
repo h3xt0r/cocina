@@ -1,0 +1,19 @@
+# PDFs generados
+*.pdf
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+ENV/
+.virtualenv/
+virtualenv/
+
+# Archivos de respaldo
+*~
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.swp
